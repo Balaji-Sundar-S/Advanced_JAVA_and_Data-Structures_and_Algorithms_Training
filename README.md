@@ -8,3 +8,4 @@ This repository containing the programs I've learnt during java training
 * infix to postfix
 * tree traversal
 * binary search tree
+* Java inheritance
